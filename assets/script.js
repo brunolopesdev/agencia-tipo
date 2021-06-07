@@ -48,7 +48,7 @@ sr.reveal(".clientes_img", {})
 sr.reveal(".contato", {})
 sr.reveal(".footer", {})
 
-sr.reveal(".", {})
+sr.reveal(".scroll", {})
 
 sr.reveal(".cover", {})
 

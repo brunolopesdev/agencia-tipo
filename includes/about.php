@@ -1,9 +1,9 @@
 <section class="section" >
-	<div class="container pb-50">
-	<h1 class="text-center" >Sobre a CST</h1>
+	<div class="container">
+	<h1 class="text-center scroll" >Sobre a CST</h1>
 		<div class="row">
 		<div class="col-md-6 shadow p-3 mb-5 bg-body rounded">
-				<div class="panel text-left">
+				<div class="panel text-left scroll">
 					
 					<h6>
 					A CST é um dos maiores fabricantes de isoladores da América Latina, há 65 anos fornecendo produtos de alta qualidade para mais de 40 países.
@@ -25,7 +25,7 @@
 					</h6>
 				</div>
 			</div>
-			<div class="col-md-6">
+			<div class="col-md-6 scroll">
 				<div>
 					<img src="./images//undraw_team_spirit_hrr4.svg" >
 				</div>

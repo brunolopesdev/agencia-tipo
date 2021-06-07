@@ -12,16 +12,16 @@
 					<div class="ms-auto">
 						<ul class="navbar-nav">
 							<li class="nav-item">
-								<a class="nav-link active" aria-current="page" href="../agencia-tipo/index.php#">Inicio</a>
+								<a class="nav-link active" aria-current="page" href="../index.php#">Inicio</a>
 							</li>
 							<li class="nav-item">
 								<a class="nav-link" href="#sobre">Sobre</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="../agencia-tipo/index.php#clientes">Clientes</a>
+								<a class="nav-link" href="../index.php#clientes">Clientes</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="../agencia-tipo/index.php#contato">Contato</a>
+								<a class="nav-link" href="../index.php#contato">Contato</a>
 							</li>
 							<li class="nav-item">
 								<a class="nav-link" href="#produtos">Produtos</a>
