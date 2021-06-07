@@ -1,5 +1,5 @@
 <section class="section" >
-	<div class="container">
+	<div class="container pb-50">
 	<h1 class="text-center" >Sobre a CST</h1>
 		<div class="row">
 		<div class="col-md-6 shadow p-3 mb-5 bg-body rounded">
